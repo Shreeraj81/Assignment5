@@ -1,5 +1,5 @@
 # Assignment5
-Data 1202 Data Analysis Tools Analysis
+Data 1202 Data Analysis Tools Analytics
 # INTRODUCTION
 The top 1000 records were extracted from the 4000 records in the youtube_dataset, and the distribution of these channels were extracted and placed in a table.
 
